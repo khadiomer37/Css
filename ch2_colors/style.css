@@ -1,0 +1,16 @@
+h1 {
+/* color: rgb(125, 125, 125); */
+/* color: blue; */
+color: #ff00ff;
+}
+div {
+    background-color: rgba(255, 0, 0, 0.9);
+    height: 200px;
+    width: 200px;
+    /* opacity: 0.1; */
+}
+body 
+{
+    background-color:black
+
+}
