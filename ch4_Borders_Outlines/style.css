@@ -1,0 +1,26 @@
+div { height: 200px;
+    width: 200px;
+    background-color: black;
+   /*border-style: solid;
+   border-color: rgb(255, 0, 0);
+   border-width: 10px;*/
+   
+   border: solid rgb(255, 0, 0) 10px;
+   border-radius: 1px;;
+
+
+   /* outline-style: solid;
+    outline-color: rgb(0, 136, 255);
+    outline-width: 10px;*/
+    
+    outline: solid rgb(0, 136, 255) 20px;
+    outline-offset: 1px;
+
+    margin: 100px;
+
+    
+
+
+
+}
+    
