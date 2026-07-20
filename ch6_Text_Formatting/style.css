@@ -1,0 +1,21 @@
+h1 { 
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 8px 8px 5px black;
+    font-size: 40px;
+    letter-spacing: 25px;
+
+}
+p {
+
+text-indent: 50px;
+/*word-spacing: 20px;*/
+line-height: 3;
+
+
+
+
+
+}
